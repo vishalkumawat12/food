@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "159483215538",
+    "project_id": "halthapp-dd999",
+    "storage_bucket": "halthapp-dd999.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159483215538:android:6cc9ac5c4c866154e593ab",
+        "android_client_info": {
+          "package_name": "com.example.halthapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "159483215538-620qni7ahfg4b8kcdoinoigktje1l19f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0JdBVcANZyweEu6JXV_9MyhsY4dR7Gcw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "159483215538-620qni7ahfg4b8kcdoinoigktje1l19f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
